@@ -17,8 +17,8 @@ This dataset allows for many research questions to be asked, each stemming from 
 
 ## Team Members
 
-Joel Semeniuk: one sentence about you!
-Danni Fehr: I am a third year Psychology major currently applying to medical school.
+- Joel Semeniuk: one sentence about you!
+- Danni Fehr: I am a third year Psychology major currently applying to medical school.
 
 
 ## Images
