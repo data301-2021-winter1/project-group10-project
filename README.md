@@ -1,7 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5879102&assignment_repo_type=AssignmentRepo)
-# Group 10 - 
-
-- Your title can change over time.
+# Group 10 - US Medical Info
 
 ## Milestones
 
@@ -17,19 +15,15 @@ This dataset allows for many research questions to be asked, each stemming from 
 
 ## Team Members
 
-- Joel Semeniuk: one sentence about you!
+- Joel Semeniuk: I am a fourth year Computer Science student interested in software development.
 - Danni Fehr: I am a third year Psychology major currently applying to medical school.
 
 
 ## Images
-
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
+None
 
 ## References
-
-{Add your stuff here}
+Dataset reference: https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41
 
 
 
