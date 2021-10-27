@@ -10,9 +10,9 @@ def load_and_process(url):
     )
 
     data2 = (
-        data1.assign(bmi=data["bmi"].round(0))
-            .assign(charges=data["charges"].round(2))
-            .assign(northern=data["region"].str.contains("north"))
+        data1.assign(bmi=data1["bmi"].round(0))
+            .assign(charges=data1["charges"].round(2))
+            .assign(northern=data1["region"].str.contains("north"))
     )
     
     data3 = data2[["charges", "bmi", "smoker","region","northern"]]
